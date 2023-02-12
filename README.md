@@ -7,5 +7,5 @@ Essa parte seria um plus para o futuro.
 De primeiro momento comecei a desenvolver com java :(, mas no segundo dia já mudei para python :) com o PyQt6 para a construção da interface grafica.
 
 
-- [] Definir a linguagem
-- [] Desenvolver a parte grafica
+- [ ] Definir a linguagem
+- [ ] Desenvolver a parte grafica
